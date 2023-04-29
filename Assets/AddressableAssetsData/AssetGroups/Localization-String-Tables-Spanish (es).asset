@@ -18,10 +18,10 @@ MonoBehaviour:
   m_GUID: 355117188160d944ca8ae3a0a0720dec
   m_SerializeEntries:
   - m_GUID: 7e72672eaa9e41947b0606771895c134
-    m_Address: Textos_App_es
+    m_Address: Textos_App_es-ES
     m_ReadOnly: 1
     m_SerializedLabels:
-    - Locale-es
+    - Locale-es-ES
     - Preload
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 460c6f6291755b944ba0583abdbf1f8b, type: 2}

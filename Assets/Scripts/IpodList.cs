@@ -36,11 +36,10 @@ public class IpodList : MonoBehaviour
     }
     public void PlayMusic()
     {
-        if (!GetComponent<AudioSource>().isPlaying || GetComponent<AudioSource>().clip != bg_sound)
-        {
-            GetComponent<AudioSource>().Play();
-        }
-       
+        GetComponent<AudioSource>().clip = list_ipod[index];
+        changeImage.GetComponent<Image>().sprite = list_images[index];
+        GetComponent<AudioSource>().Play();
+
     }
     
     public void PauseMusic()
@@ -55,6 +54,7 @@ public class IpodList : MonoBehaviour
             GetComponent<AudioSource>().Stop();
             GetComponent<AudioSource>().clip = bg_sound;
             StartCoroutine(WaitForFunction());
+            changeImage.GetComponent<Image>().sprite = null;
         }
         
 

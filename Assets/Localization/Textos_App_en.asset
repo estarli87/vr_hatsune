@@ -19,7 +19,35 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 18006482944
-    m_Localized: "Hello VR\t"
+    m_Localized: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11627110271275008
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11627018646704128
+    m_Localized: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11629822174023680
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11630561151668224
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11630953331675136
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11634641282519040
+    m_Localized: Ilumination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11660244681478144
+    m_Localized: Sound
     m_Metadata:
       m_Items: []
   references:

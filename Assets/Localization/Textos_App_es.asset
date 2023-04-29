@@ -13,13 +13,41 @@ MonoBehaviour:
   m_Name: Textos_App_es
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: es
+    m_Code: es-ES
   m_SharedData: {fileID: 11400000, guid: d56bb4a35a5609a4ca93cd22338b4d38, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
   - m_Id: 18006482944
-    m_Localized: Hola VR
+    m_Localized: Idiomas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11627110271275008
+    m_Localized: "Ingl\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11627018646704128
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11629822174023680
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11630561151668224
+    m_Localized: "Men\xFA principal\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11630953331675136
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11634641282519040
+    m_Localized: "Iluminaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11660244681478144
+    m_Localized: Volumen
     m_Metadata:
       m_Items: []
   references:

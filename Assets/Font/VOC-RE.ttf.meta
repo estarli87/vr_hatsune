@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5f3fecb19795c474ba643b2487affe49
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vocaloid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8a2dadba67c42354c98aaba13d2e8c6a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
